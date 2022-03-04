@@ -1,0 +1,10 @@
+1. Apa itu CSS Framework?
+2. Apakah bootstrap satu-satunya CSS Framework yang dapat kita gunakan?
+3. Sebutkan beberapa CSS Framework selain Bootstrap?
+4. Bagaimana tata cara penggunaan Bootstrap?
+
+JAWABAN RIZKI :
+1. CSS Framework merupakan suatu kerangka kerja yang bertujuan untuk mempermudah pengguna dalam membuat atau mendesain website, khusunya pada bagian layoutdan tema.
+2. Tidak. Pada CSS terdapat berbagai jenis framework lainnya dan boostraps merupakan salah satu diantaranya.
+3. Tailwind, Fundation, semantic UI, UIKit, Bulma, Milligram, Materialize.
+4. Adapun tata cara dalam pembuatan boostrap diantaranya adalah dengan adalah dengan mengunjungi link boostrap. Pada link tersebut kita dapat melihat berbagai jenis komponen sesuai dengan yang yang kita inginkan kemudian copy-paste link tersebut ke dalam html yang sudah dibuat. Jangan lupa untuk menghubungkan link html dengan link boostrap yang sudah disediakn diwebsite resmi boostrap.
